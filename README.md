@@ -7,7 +7,7 @@ Basic spring boot application.
 | id         | Long |
 | name       | String |
 | email      | String |
-| dob(dataOfbirth)        | LocalDate |
+| dob        | LocalDate |
 | age        | Integer |
 
 ### Sample Post Request
