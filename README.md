@@ -1,4 +1,4 @@
-# SpringBootRestApi
+# Spring Boot Rest Api
 Basic spring boot application.
 
 ## Request 
